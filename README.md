@@ -2,17 +2,19 @@
 
 
 
-【ポイント】
+## ポイント
 
-・Widget上部のPaddingで画面全体に余白を空ける(vertical, horizontal)
-・Column, Rowの使い方
-    - mainAxisAlignment, crossAxisAlignmentの使い分け ・
-・TextFieldの使い方
-    - TextField内にアイコンを設置する方法(prefixIcon)
-    - borderの使い方(OutlineInputBorder)
-・GridView.countの使い方
+・Widget上部のPaddingで画面全体に余白を空ける(vertical, horizontal)<br>
+・Column, Rowの使い方<br>
+    - mainAxisAlignment, crossAxisAlignmentの使い分け<br>
+・TextFieldの使い方<br>
+    - TextField内にアイコンを設置する方法(prefixIcon)<br>
+    - borderの使い方(OutlineInputBorder)<br>
+・GridView.countの使い方<br>
 
-参考動画: https://www.youtube.com/watch?v=PFkCSLnKKx0
+## 参考動画
+
+[Figma to Flutter: How to create Travel App in Flutte]https://www.youtube.com/watch?v=PFkCSLnKKx0
 
 
 
