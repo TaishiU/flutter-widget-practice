@@ -5,12 +5,19 @@
 ## ポイント
 
 ・Widget上部のPaddingで画面全体に余白を空ける(vertical, horizontal)<br>
+
 ・Column, Rowの使い方<br>
-    - mainAxisAlignment, crossAxisAlignmentの使い分け<br>
+   - mainAxisAlignment, crossAxisAlignmentの使い分け<br>
+
 ・TextFieldの使い方<br>
-    - TextField内にアイコンを設置する方法(prefixIcon)<br>
-    - borderの使い方(OutlineInputBorder)<br>
+   - TextField内にアイコンを設置する方法(prefixIcon)<br>
+   - borderの使い方(OutlineInputBorder)<br>
+
 ・GridView.countの使い方<br>
+
+
+
+
 
 ## 参考動画
 
