@@ -1,8 +1,18 @@
-# card_image
-
 ![57945A67-CF8D-47A5-BCB8-41331D030762_1_201_a](https://user-images.githubusercontent.com/73986840/116980437-3161d600-ad01-11eb-8e64-741e59e17948.jpeg)
 
-Reference: https://www.youtube.com/watch?v=PFkCSLnKKx0
+
+
+【ポイント】
+
+・Widget上部のPaddingで画面全体に余白を空ける(vertical, horizontal)
+・Column, Rowの使い方
+    - mainAxisAlignment, crossAxisAlignmentの使い分け ・
+・TextFieldの使い方
+    - TextField内にアイコンを設置する方法(prefixIcon)
+    - borderの使い方(OutlineInputBorder)
+・GridView.countの使い方
+
+参考動画: https://www.youtube.com/watch?v=PFkCSLnKKx0
 
 
 
